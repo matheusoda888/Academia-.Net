@@ -1,6 +1,6 @@
 ﻿namespace Lista2
 {
-    internal class Program
+    internal class lista3
     {
         static void Main(string[] args)
         {
