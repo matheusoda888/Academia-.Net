@@ -2,7 +2,7 @@
 
 namespace listas
 {
-    internal class lista1
+    internal class lista2
     {
         static void Main(string[] args)
         {
