@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             int num;
-            Console.WriteLine("Qual exercicio da lista?");
+            Console.WriteLine("Qual exercicio da lista 5?");
             num = int.Parse(Console.ReadLine());
             switch (num)
             {
@@ -44,7 +44,22 @@
                     exercicio11();
                     break;
                 case 12:
+                    exercicio12();
+                    break;
+                case 13:
+                    exercicio13();
+                    break;
+                case 14:
+                    exercicio14();
+                    break;
+                case 15:
+                    exercicio15();
+                    break;
+                case 16:
                     exercicio16();
+                    break;
+                case 17:
+                    exercicio17();
                     break;
 
                 default:
