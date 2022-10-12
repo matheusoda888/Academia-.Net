@@ -1,0 +1,15 @@
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\bin\Debug\net6.0\Lista7Ex2.exe
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\bin\Debug\net6.0\Lista7Ex2.deps.json
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\bin\Debug\net6.0\Lista7Ex2.runtimeconfig.json
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\bin\Debug\net6.0\Lista7Ex2.dll
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\bin\Debug\net6.0\Lista7Ex2.pdb
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.csproj.AssemblyReference.cache
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.AssemblyInfoInputs.cache
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.AssemblyInfo.cs
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.csproj.CoreCompileInputs.cache
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.dll
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\refint\Lista7Ex2.dll
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.pdb
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\Lista7Ex2.genruntimeconfig.cache
+C:\Users\OS2676\source\repos\Lista7Ex2\Lista7Ex2\obj\Debug\net6.0\ref\Lista7Ex2.dll
