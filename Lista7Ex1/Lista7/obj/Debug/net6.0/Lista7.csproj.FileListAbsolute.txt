@@ -1,0 +1,15 @@
+C:\Users\OS2676\source\repos\Lista7\Lista7\bin\Debug\net6.0\Lista7.exe
+C:\Users\OS2676\source\repos\Lista7\Lista7\bin\Debug\net6.0\Lista7.deps.json
+C:\Users\OS2676\source\repos\Lista7\Lista7\bin\Debug\net6.0\Lista7.runtimeconfig.json
+C:\Users\OS2676\source\repos\Lista7\Lista7\bin\Debug\net6.0\Lista7.dll
+C:\Users\OS2676\source\repos\Lista7\Lista7\bin\Debug\net6.0\Lista7.pdb
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.csproj.AssemblyReference.cache
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.AssemblyInfoInputs.cache
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.AssemblyInfo.cs
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.csproj.CoreCompileInputs.cache
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.dll
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\refint\Lista7.dll
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.pdb
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\Lista7.genruntimeconfig.cache
+C:\Users\OS2676\source\repos\Lista7\Lista7\obj\Debug\net6.0\ref\Lista7.dll
