@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lista7Ex6/1.0.0": {
+        "runtime": {
+          "Lista7Ex6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista7Ex6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
