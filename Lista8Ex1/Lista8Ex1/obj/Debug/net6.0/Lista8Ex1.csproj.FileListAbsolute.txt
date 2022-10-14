@@ -1,0 +1,15 @@
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.csproj.AssemblyReference.cache
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.AssemblyInfoInputs.cache
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.AssemblyInfo.cs
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.csproj.CoreCompileInputs.cache
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\bin\Debug\net6.0\Lista8Ex1.exe
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\bin\Debug\net6.0\Lista8Ex1.deps.json
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\bin\Debug\net6.0\Lista8Ex1.runtimeconfig.json
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\bin\Debug\net6.0\Lista8Ex1.dll
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\bin\Debug\net6.0\Lista8Ex1.pdb
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.dll
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\refint\Lista8Ex1.dll
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.pdb
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\Lista8Ex1.genruntimeconfig.cache
+C:\Users\OS2676\source\repos\Lista8Ex1\Lista8Ex1\obj\Debug\net6.0\ref\Lista8Ex1.dll
