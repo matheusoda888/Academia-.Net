@@ -1,0 +1,44 @@
+body{
+    color: rgb(241, 4, 4);
+    background-image:url("img.jpg");
+    background-position-x:center;
+    background-position-y: left;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+a:link{
+    text-align: center;
+    color: rgb(0, 241, 20);
+}
+a:visited{
+    
+    color:rgb(255, 60, 0)
+}
+a:hover{
+    
+    text-transform: uppercase;
+}
+
+#id1{
+        color: rgb(0, 114, 245);
+        text-align: center;
+
+}
+#id2{
+    color: rgb(136, 255, 0);
+    
+}
+table, td,th {
+    color: rgb(60, 255, 0);
+    table-layout: auto;
+    border-color:aquamarine;
+    border-style: double;
+    
+}
+form{
+    color: rgb(43, 255, 0);
+}
+#id3{
+    text-align: center;
+}
